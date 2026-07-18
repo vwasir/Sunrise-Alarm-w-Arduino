@@ -1,6 +1,7 @@
 # Arduino Sunrise Alarm Clock
 
 A custom desktop alarm clock built with an Arduino Uno that simulates a natural sunrise by slowly transitioning an LED strip from deep red to golden yellow over the course of an hour.
+Small note that this project was made with soley the arduino and components, the actual figure of this "alarm" has not yet been created, but will be created soon.
 
 ## 🛠️ Components Used
 * **Microcontroller:** Arduino Uno (ELEGOO board)
